@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import io
 import numpy as np
-from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode
+from streamlit-aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode
 import zipfile
 import base64
 import os
